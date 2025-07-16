@@ -2,7 +2,6 @@ streamlit
 pandas
 plotly
 numpy
-itertools
 scikit-learn
 scipy
 openpyxl
