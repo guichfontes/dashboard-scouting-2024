@@ -5,3 +5,4 @@ numpy
 itertools
 scikit-learn
 scipy
+openpyxl
