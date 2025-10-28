@@ -60,3 +60,11 @@ O dashboard está disponível em:
 git clone https://github.com/SEU_USUARIO/dashboard-bons-e-baratos.git
 cd dashboard-bons-e-baratos
 streamlit run main.py
+
+---
+
+## 👤 Autor
+
+**Guilherme Fontes**  
+🎓 Universidade Federal da Bahia (UFBA)
+📧 guilhermefontes@ufba.br
