@@ -7,7 +7,7 @@
 
 Este dashboard interativo foi desenvolvido para **analisar dados de jogadores do Campeonato Brasileiro 2024**, com o objetivo de **identificar atletas de bom desempenho (outliers positivos) e baixo custo de mercado** — os chamados *bons e baratos*.
 
-Os dados foram coletados do [FBref](https://fbref.com/) e do [Transfermarkt](transfermarkt.com.br), processados e analisados com técnicas de *machine learning não supervisionado* (DBSCAN e PCA), visando apoiar o **scouting e a recomendação de reforços** para clubes brasileiros.
+Utilizando [ScraperFC](https://scraperfc.readthedocs.io/en/latest/), Os dados foram coletados do [FBref](https://fbref.com/) e do [Transfermarkt](transfermarkt.com.br), processados e analisados com técnicas de *machine learning não supervisionado* (DBSCAN e PCA), visando apoiar o **scouting e a recomendação de reforços** para clubes brasileiros.
 
 ---
 
