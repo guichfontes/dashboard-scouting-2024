@@ -53,17 +53,6 @@ O dashboard está disponível em:
 
 ---
 
-## ⚙️ Como Executar Localmente
-
-### 1. Clone o repositório:
-```bash
-git clone https://github.com/SEU_USUARIO/dashboard-bons-e-baratos.git
-cd dashboard-bons-e-baratos
-streamlit run main.py
-```bash
-
----
-
 ## 👤 Autor
 
 **Guilherme Fontes**  
