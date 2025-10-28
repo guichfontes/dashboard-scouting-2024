@@ -16,7 +16,7 @@ Utilizando [ScraperFC](https://scraperfc.readthedocs.io/en/latest/), Os dados fo
 O dashboard está disponível em:  
 👉 **[https://dashboard-scouting-de-bons-e-baratos.onrender.com/](https://dashboard-scouting-de-bons-e-baratos.onrender.com/)**  
 
-> Para obter **usuário e senha de acesso**, entre em contato com:  
+> Para obter **usuário e senha de acesso**, analise o código-fonte de main.py. Caso tenha dúvidas, entre em contato com:  
 > 📧 **guilhermefontes@ufba.br**
 
 ---
